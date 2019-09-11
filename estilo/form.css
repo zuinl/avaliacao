@@ -1,0 +1,24 @@
+/* body{
+	background: #e0e2e5;
+	margin: auto;
+}
+label{
+	font-size: 15px;
+	color: black;
+} */
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background: #0663C9;
+    border-radius: 10px;
+	margin-top: 110px;
+	color: white;
+}
+.btn-primary {
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-color: #007bff;
+}
