@@ -2,7 +2,7 @@
     
         session_start();
     
-    $conn = mysqli_connect('servidor.taubate.sp.gov.br', 'taubates_seel', 'esportes@2017', 'taubates_seel');
+    $conn = mysqli_connect('localhost', 'root', '', 'db_avaliacao');
 
     if(!$conn) {
         echo '
